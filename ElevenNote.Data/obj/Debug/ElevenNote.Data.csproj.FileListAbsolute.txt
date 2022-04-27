@@ -36,3 +36,5 @@ C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNo
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.xml
