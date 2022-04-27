@@ -69,15 +69,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NoteCreate.cs" />
-    <Compile Include="NoteDetail.cs" />
-    <Compile Include="NoteEdit.cs" />
-    <Compile Include="NoteListItem.cs" />
+    <Compile Include="Category\CategoryCreate.cs" />
+    <Compile Include="Category\CategoryDetail.cs" />
+    <Compile Include="Category\CategoryEdit.cs" />
+    <Compile Include="Category\CategoryListItem.cs" />
+    <Compile Include="Note\NoteCreate.cs" />
+    <Compile Include="Note\NoteDetail.cs" />
+    <Compile Include="Note\NoteEdit.cs" />
+    <Compile Include="Note\NoteListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ElevenNote.Data\ElevenNote.Data.csproj">
+      <Project>{AD1382AE-D443-4C0B-9E6D-6062FC75B7C2}</Project>
+      <Name>ElevenNote.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
