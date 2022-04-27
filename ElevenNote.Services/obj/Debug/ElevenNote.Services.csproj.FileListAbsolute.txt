@@ -20,3 +20,11 @@ C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\obj\Debug\Elev
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.dll
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.xml

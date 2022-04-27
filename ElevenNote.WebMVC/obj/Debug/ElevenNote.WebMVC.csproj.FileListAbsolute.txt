@@ -115,3 +115,9 @@ C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\obj\Debug\Eleven
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.dll
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.xml
+C:\ElevenFiftyProjects\Assignments\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml
